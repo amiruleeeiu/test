@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 this is test1
-this is third line
-=======
-this is test1,
- this is test second line.
->>>>>>> branch1
+this is second line
+
